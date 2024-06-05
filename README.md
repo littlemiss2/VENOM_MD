@@ -4,7 +4,7 @@
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/cc37092cdc5862e978658.jpg">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/478c2641e9bcf0ecfd139.jpg">
  
          
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐕𝐄𝐍𝐎𝐌_𝐌𝐃+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝐇𝐀𝐌𝐌𝐘)](https://git.io/typing-svg)
