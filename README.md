@@ -1,14 +1,14 @@
 # 𝐕𝐄𝐍𝐎𝐌_𝐌𝐃
 
  
-      
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐕𝐄𝐍𝐎𝐌_𝐌𝐃+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝐇𝐀𝐌𝐌𝐘)](https://git.io/typing-svg)
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/c4221591d27bb38b9b966.jpg">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/cc37092cdc5862e978658.jpg">
  
-   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=A_ONE+WHATSAPP+BOT;CREATED+BY+𝐇𝐀𝐌𝐌𝐘
+         
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐕𝐄𝐍𝐎𝐌_𝐌𝐃+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝐇𝐀𝐌𝐌𝐘)](https://git.io/typing-svg)
+
   </a>
 </p>
 <p align="center">
