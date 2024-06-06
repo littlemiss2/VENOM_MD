@@ -3,7 +3,7 @@
  
 
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
+  <a href="https://whatsapp.com/channel/0029Vagq4pN9hXEy6SpCDi0X">
     <img alt="wasi" height="300" src="https://telegra.ph/file/478c2641e9bcf0ecfd139.jpg">
  
          
@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Hammy254"><img title="Author" src="https://img.shields.io/badge/Hammy254-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/25437991043"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Hammy254"><img title="Author" src="https://img.shields.io/badge/Hammy254-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vagq4pN9hXEy6SpCDi0X"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/25437991043"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Hammy254?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Hammy254?label=Followers&style=social"></a>
