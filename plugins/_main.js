@@ -1,4 +1,4 @@
-hconst util = require("util");
+const util = require("util");
 const fs = require("fs-extra");
 const {
   cmd
